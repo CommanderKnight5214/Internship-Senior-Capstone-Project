@@ -1,5 +1,10 @@
 # Internship/Senior Capstone Project
 
-For this project, I helped to create an Internal Blazor Application for SKYGEN USA, which worked as an Internal Social Media Application for the company. The Application itself utilized many of Microsoft's newest technologies such as blazor, as well as its old techologies such as ASP.NET along with .NET development as well. In addition to this, I also used SQL and C# throughout the duration of my internship, and I also got to use a learn and third party library called mudblazor. 
+For this project, I helped to create an Internal Blazor Application for SKYGEN USA, which worked as an Internal Social Media Application for the company. The Application itself utilized many of Microsoft's newest technologies such as [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), as well as some of microsofts other technologies, such as ASP.NET, along with .NET development as well. In addition to this, I also used some other programming and web design languages throughout the duration of this project and internship, and I also got to use a third party library called [MudBlazor](https://mudblazor.com/). and SQL, C#, HTML, and CSS, The other programming/web design languages that I got use for this project can be listed as follows:
 
-The project itself gave me some valuable experience, which not only consisted of some valuable industry experience, but this experience also gave me the opportunity to learn and grow as a software developer. I learned a lot of new tools and technologies while I was an intern at SKYGEN USA, and while I am not able to publish my code because it is properitary. I can say that this experience was valuable to me as a software developer, and this experience will only drive my furthern into working on my projects with these new technologies, while also learning some new technolgies at a future company. 
+* SQL
+* C#
+* HTML
+* CSS
+
+The project itself gave me some valuable experience, which not only consisted of some valuable industry experience, but this experience also gave me the opportunity to learn and grow as a software developer. I learned a lot of new tools and technologies while I was an intern at SKYGEN USA, and while I am not able to publish my code because it is properitary to the company. I can say that this experience was valuable to me as a software developer, and this experience will only drive my further into working on my projects with these new technologies, while also learning some new technolgies at a future company. 
